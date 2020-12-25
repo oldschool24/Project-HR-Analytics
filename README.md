@@ -24,9 +24,9 @@
 
 Датасет для классификации: https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study?select=general_data.csv
 
-Датасет для временных рядов: ---
+Датасет для временных рядов: https://www.kaggle.com/chirag19/air-passengers
 
 ### Применяемые методы
 
 ### Навигация
-В папке second stage содержится: готовые данные с 1-го этапа, юпитер тетрадка, нейросетевая модель(classification); временной ряд, юпитер тетрадка(timeseries). 
+В папке second stage содержится: готовые данные с 1-го этапа, jupyter notebook по классификации с помощью нейросетевых подходов, готовые модели; временной ряд, юпитер тетрадка(timeseries). 
